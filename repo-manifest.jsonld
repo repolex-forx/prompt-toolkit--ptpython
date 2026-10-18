@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/prompt-toolkit/ptpython/commit/dfe9dae32df17f6695aad6168ec271d02eb1232e",
       "git:hexsha": "dfe9dae32df17f6695aad6168ec271d02eb1232e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/prompt-toolkit/ptpython/commit/8d4259d18473127a8abc916303dfdba45411c8f3",
